@@ -13,7 +13,7 @@ const preview: Preview = {
         },
         {
           name: 'dark',
-          value: theme.colors.primaryColor,
+          value: theme.colors.primary,
         }
       ]
     }
